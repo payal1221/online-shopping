@@ -1,10 +1,12 @@
-package com.cjc.shoppingbackend;
+package net.kzn.shoppingbackend;
 
 /**
  * Hello world!
  *
  */
 public class App 
+
+
 {
     public static void main( String[] args )
     {
